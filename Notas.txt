@@ -9,3 +9,5 @@ git config --global user.email "info.contactoprofesional@gmail.com"
 git log historia.txt (Historia del archivo)
 
 git show historia.txt (Muestra historia de cambios del archivo)
+
+escape + shift + z
