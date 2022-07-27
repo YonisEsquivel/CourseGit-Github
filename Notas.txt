@@ -11,3 +11,5 @@ git log historia.txt (Historia del archivo)
 git show historia.txt (Muestra historia de cambios del archivo)
 
 escape + shift + z
+
+git diff 'commit' 'commit' (Comparar commit)
