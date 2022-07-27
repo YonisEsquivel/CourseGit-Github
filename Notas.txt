@@ -1,1 +1,7 @@
 git rm --cached historia.txt -> Sacarlo del add
+
+git config (Ayuda)
+git config --list (Ver Configuraciones)
+git config --list --show-origin (Ver dónde están las configuraciones guardadas)
+git config --global user.name "Yonis Esquivel"
+git config --global user.email "info.contactoprofesional@gmail.com"
