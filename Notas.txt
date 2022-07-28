@@ -26,3 +26,5 @@ git reset HEAD: Este es el comando para sacar archivos del área de staging. No 
 
 git checkou 'commit' archivo.xd (Ir a una versión anterior)
 
+FUSIONAR RAMAS
+git merge 'nombreDeLaRama' (Estando en la rama master)
