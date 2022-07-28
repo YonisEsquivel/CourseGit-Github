@@ -44,4 +44,6 @@ git pull origin main --allow-unrelated-histories (Forzar merge entre origin y lo
 
 git push origin main (Enviar cambios de local a remoto)
 
+//CAMBIOS HECHOS DESDE LA WEB XD
+
 
