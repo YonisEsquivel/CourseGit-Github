@@ -25,3 +25,4 @@ git reset 'commit' --soft -> Volver a la versión anterior (se conserva lo de st
 git reset HEAD: Este es el comando para sacar archivos del área de staging. No para borrarlos ni nada de eso, solo para que los últimos cambios de estos archivos no se envíen al último commit, a menos que cambiemos de opinión y los incluyamos de nuevo en staging con git add, por supuesto.
 
 git checkou 'commit' archivo.xd (Ir a una versión anterior)
+
