@@ -13,3 +13,10 @@ git show historia.txt (Muestra historia de cambios del archivo)
 escape + shift + z
 
 git diff 'commit' 'commit' (Comparar commit)
+
+git add 'archivo' -> staging; git commit -m '' -> repositorio (/.git)
+
+merge -> unir ramas
+
+git reset 'commit' --hard -> Volver a la versión anterior (todo)
+git reset 'commit' --soft -> Volver a la versión anterior (se conserva lo de staging)
