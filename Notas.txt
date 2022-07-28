@@ -31,3 +31,10 @@ git log --stat (Ver los cambios hechos)
 git branch 'nombre' (Crear una nueva rama)
 
 git branch -M main (Solucionar cambio de Github)
+
+git remote add origin 'URL' (Asociar Git con Github)
+
+git remote -v (Mostrar origin fetch/push)
+
+git push origin main (Enviar cambios de local a remoto)
+
